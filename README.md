@@ -1,4 +1,4 @@
-# Toy-Store-Sales-Dashboard
+# Toy-Store-Sales-Dashboard - Tableau Project.
 🚀 Just turned toy chaos into crystal-clear insights—and it’s playful 🧸  
 
 I built a Tableau dashboard for Maven Toys (a fictional toy chain in Mexico) that transforms messy sales & inventory data into actionable business superpowers.  
